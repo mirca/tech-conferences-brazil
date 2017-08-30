@@ -5,7 +5,7 @@
 
 To add a conference to the list, please [contribute!](CONTRIBUTING.md)
 
-If you would like to be notified of future conferences that would be added to the list, you could watch this repo. New additions are made via PRs and have full description of the conference so that you can view it directly in your email.
+If you would like to be notified of future conferences that would be added to the list, you could watch this repo. New additions are made via PRs and have full description of the conference so that you can view it directly in your email. ([Example PR](https://github.com/samanthakem/tech-conferences-brazil/pull/1))
 
 ## 2017
 
