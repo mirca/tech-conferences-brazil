@@ -1,5 +1,5 @@
 # Tech Conferences in Brazil
-<sup>Inspired by [Tech Conferences in India](https://github.com/nikhita/tech-conferences-india)</sup>
+<sup>Inspired by [Tech Conferences in India](https://github.com/nikhita/tech-conferences-india) (@nikhita)</sup>
 
 **Comprehensive list of tech conferences that are held in Brazil.**
 
