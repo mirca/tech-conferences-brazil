@@ -6,7 +6,7 @@ To contribute to the list, please send a PR. If you don't have time to send in a
 
 **Format for contributions:**
 
-` | [name-of-conf](link) | date | venue | description |`
+` * [name-of-conf](link) | date | venue`
 
 Please make sure that the conferences are in reverse chronological order and you follow the Pull Request Template. :smile:
 
