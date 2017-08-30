@@ -11,6 +11,6 @@ If you would like to be notified of future conferences that would be added to th
 
 | Conference | Date | Venue | Description |
 |------------|------|-------|-------------|
+| [GopherCon Brasil](https://2017.gopherconbr.org/) | 17-19 Nov | Florianópolis | Brazil's largest event dedicated to Go. |
 | [The Developers Conference - RS](http://www.thedevelopersconference.com.br/tdc/2017/portoalegre/trilhas) | 8-11 Nov | Porto Alegre | #TheDevConf is an amazing event which brings together communities of developers, testers, gamers and so on!
 | [Campus Party - MG](http://brasil.campus-party.org/minas-gerais/) | 1-5 Nov | Belo Horizonte | Campus Party is the greatest technological experience of the world which brings together young geeks in a festival of innovation, creativity, science, entrepreneurship & entertainment.
-| [GopherCon Brasil](https://2017.gopherconbr.org/) | 17-19 Nov | Florianópolis | Brazil's largest event dedicated to Go. |
