@@ -11,4 +11,5 @@ If you would like to be notified of future conferences that would be added to th
 
 | Conference | Date | Venue | Description |
 |------------|------|-------|-------------|
-| [The Developers Conference](http://www.thedevelopersconference.com.br/tdc/2017/portoalegre/trilhas) | 8-11 Nov | Porto Alegre | #TheDevConf is an amazing event which brings together communities of developers, testers, gamers and so on!
+| [The Developers Conference - RS](http://www.thedevelopersconference.com.br/tdc/2017/portoalegre/trilhas) | 8-11 Nov | Porto Alegre | #TheDevConf is an amazing event which brings together communities of developers, testers, gamers and so on!
+| [Campus Party - MG](http://brasil.campus-party.org/minas-gerais/) | 1-5 Nov | Belo Horizonte | Campus Party is the greatest technological experience of the world which brings together young geeks in a festival of innovation, creativity, science, entrepreneurship & entertainment.
